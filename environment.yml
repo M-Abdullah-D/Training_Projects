@@ -11,3 +11,12 @@ dependencies:
   - matplotlib
   - statsmodels
   - scipy
+  - catboost
+  - category_encoders
+  - japanize_matplotlib
+  - matplotlib_venn
+  - packaging
+  - tqdm
+  - xgboost
+  - ipywidgets
+  - lightgbm
